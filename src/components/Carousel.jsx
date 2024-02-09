@@ -1,7 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-export const Carousel = () => {
+export const Carousel = ({data}) => {
   return (
-    <div>Carousel</div>
+    <div>{data.images.map((item, idx) => {
+      return <img src={item.src} alt={item.alt} key = {idx} />
+    })}</div>
   )
-}
+};

@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "src": "https://picsum.photos/400/300?random=1",
+      "alt": "carousel - picsum 1"
+    },
+    {
+      "src": "https://picsum.photos/400/300?random=2",
+      "alt": "carousel - picsum 2"
+    },
+    {
+      "src": "https://picsum.photos/400/300?random=3",
+      "alt": "carousel - picsum 3"
+    },
+    {
+      "src": "https://picsum.photos/400/300?random=4",
+      "alt": "carousel - picsum 4"
+    },
+    {
+      "src": "https://picsum.photos/400/300?random=5",
+      "alt": "carousel - picsum 5"
+    },
+    {
+      "src": "https://picsum.photos/400/300?random=6",
+      "alt": "carousel - picsum 6"
+    }
+  ]
+}
