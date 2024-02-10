@@ -179,7 +179,9 @@ Back to [top](#tableOfContents)
 ### Media <a name="media"></a>
 
 - [favicon.ico](https://www.flaticon.com/free-icon/gallery_12121559?term=carousel&page=1&position=13&origin=search&related_id=12121559) - [Flaticon](https://www.flaticon.com/) | copyright [freepik](https://www.freepik.com)
-- []() - []() | copyright []()
+- Carousel images - [Lorem Picsum](https://picsum.photos/) | copyright [Unsplash](https://unsplash.com/)
+- react-icons - [Phosphor Icons](https://react-icons.github.io/react-icons/icons/pi/) | copyright [Phosphor Icons](https://github.com/phosphor-icons/core)
+)
 - []() - []() | copyright []()
 
 Back to [top](#tableOfContents)
