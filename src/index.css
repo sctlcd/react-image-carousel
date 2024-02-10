@@ -2,7 +2,5 @@ body {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  overflow: hidden; /* remove any type of scrolling even on touch screens */
-  /* width: 100vw; */
-  /* height: 100vh; */
+  /* overflow: hidden; */ /* remove any type of scrolling even on touch screens */
 }
