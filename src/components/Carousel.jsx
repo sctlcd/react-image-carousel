@@ -40,7 +40,7 @@ export const Carousel = ({data}) => {
         return (
           <button 
             key={idx} 
-            onClick={null}
+            onClick={() => setImage(idx)}
             className={image === idx ? "index" : "index index-inactive"}
           />)
       })}
