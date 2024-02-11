@@ -56,3 +56,29 @@
 .index-inactive {
   background-color: grey;
 }
+
+/************************************************************************* Media queries *******************/
+
+/* xs - Extra small devices */
+@media (max-width: 575.99px) {
+  .carousel {
+    width: 300px;
+    height: 200px;
+  }
+}
+
+/* sm - Small devices */
+@media (min-width: 576px) and (max-width: 767.99px) {
+  .carousel {
+    width: 400px;
+    height: 300px;
+  }
+}
+
+/* md - Medium devices */
+@media (min-width: 768px) and (max-width: 991.99px) {
+  .carousel {
+    width: 600px;
+    height: 400px;
+  }
+}
