@@ -4,6 +4,7 @@ import { PiArrowFatLinesRightDuotone, PiArrowFatLinesLeftDuotone  } from "react-
 
 export const Carousel = ({data}) => {
   return (
+    <>
     <div className='carousel'>
       <PiArrowFatLinesLeftDuotone className="arrow arrow-left" />
       {data.images.map((item, idx) => {
@@ -17,5 +18,19 @@ export const Carousel = ({data}) => {
       })}
       <PiArrowFatLinesRightDuotone className="arrow arrow-right" />
     </div>
+    <span className='indexes'>
+      {data.images.map((item, idx) => {
+        return (
+          <button 
+            key={idx} 
+            onClick={null}
+            className={
+              "index"
+              // image === idx ? "index" : "index index-inactive"
+            }
+          />)
+      })}
+    </span>
+    </>
   )
 };

@@ -1,23 +1,24 @@
 .carousel {
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   width: 400px;
   height: 300px; 
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .image {
-  border-radius: 0.8rem;
-  box-shadow: 0px 0px 8px #fef3f3;
   width: 100%;
   height: 100%;
+  border-radius: 0.8rem;
+  box-shadow: 0px 0px 8px #fef3f3;
 }
 
 .arrow {
-  position: absolute;
   width: 2rem;
   height: 2rem;
+  position: absolute;
+  color: #fef3f3;
 }
 
 .arrow:hover {
@@ -30,4 +31,26 @@
 
 .arrow-right {
   right: 1rem;
+}
+
+.indexes {
+  position: absolute;
+  display: flex;
+  bottom: 1rem;
+}
+
+.index {
+  height: 0.2rem;
+  /* width: 0.2rem; */
+  background-color: #fef3f3;
+  margin: 0 0.05rem;
+  border: none;
+  border-radius: 40%;
+  outline: none;
+  box-shadow: 0px 0px 2px #fef3f3;
+  cursor: pointer;
+}
+
+.index-inactive {
+  background-color: grey;
 }
