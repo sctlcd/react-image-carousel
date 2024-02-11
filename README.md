@@ -27,7 +27,7 @@
 
 ## Introduction <a name="introduction"></a>
 
-Creating an image carousel [React](https://reactjs.org/).
+Creating an image carousel using [React](https://reactjs.org/) on mobiles and desktops.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -112,9 +112,7 @@ Back to [top](#tableOfContents)
    - [react](https://reactjs.org/) - **JavaScript library for creating user interfaces**
    - [react-dom](https://www.npmjs.com/package/react-dom) - **Package that serves as the entry point to the DOM and server renderers for React**
    - [react-scripts](https://www.npmjs.com/package/react-scripts) - **Configuration and scripts for Create React App**
-   - [@fortawesome/react-fontawesome](https://www.npmjs.com/package/@fortawesome/react-fontawesome) - **Font Awesome React component**
-   - [@fortawesome/free-solid-svg-icons](https://www.npmjs.com/package/@fortawesome/free-solid-svg-icons) - **The SVG, font, and CSS toolkit**
-   - [@fortawesome/fontawesome-svg-core](https://www.npmjs.com/package/@fortawesome/fontawesome-svg-core) - **The SVG, font, and CSS toolkit**
+
 
 5. Runs the app in the development mode.
    Open http://localhost:3000 to view it in the browser.
@@ -181,8 +179,6 @@ Back to [top](#tableOfContents)
 - [favicon.ico](https://www.flaticon.com/free-icon/gallery_12121559?term=carousel&page=1&position=13&origin=search&related_id=12121559) - [Flaticon](https://www.flaticon.com/) | copyright [freepik](https://www.freepik.com)
 - Carousel images - [Lorem Picsum](https://picsum.photos/) | copyright [Unsplash](https://unsplash.com/)
 - react-icons - [Phosphor Icons](https://react-icons.github.io/react-icons/icons/pi/) | copyright [Phosphor Icons](https://github.com/phosphor-icons/core)
-)
-- []() - []() | copyright []()
 
 Back to [top](#tableOfContents)
 
