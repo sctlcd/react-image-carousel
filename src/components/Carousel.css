@@ -14,6 +14,10 @@
   box-shadow: 0px 0px 8px #fef3f3;
 }
 
+.image-hidden {
+  display: none;
+}
+
 .arrow {
   width: 2rem;
   height: 2rem;
@@ -34,7 +38,7 @@
 }
 
 .indexes {
-  position: absolute;
+  position: relative;
   display: flex;
   bottom: 1rem;
 }
@@ -46,7 +50,7 @@
   border: none;
   border-radius: 40%;
   outline: none;
-  box-shadow: 0px 0px 2px #fef3f3;
+  box-shadow: 0px 0px 1px #fef3f3;
   cursor: pointer;
 }
 
